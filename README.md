@@ -7,6 +7,7 @@
 🎓 Estudiante de **Ingeniería en Computación** en la Universidad del Istmo.  
 💻 Apasionado por el **desarrollo web, APIs y software escalable**.  
 📊 Explorando **análisis de datos** y **optimización de sistemas**.  
+🤝 Trabajo en equipo, liderazgo técnico y mejora continua.
 
 ---
 
