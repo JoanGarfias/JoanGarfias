@@ -16,7 +16,7 @@
 🎨 **Frontend:** JavaScript | CSS  
 🗄 **Bases de datos:** MySQL | PostgreSQL | Firebase  
 🚀 **Despliegue:** Hosting  
-🔐 **Seguridad:** JWT | Manejo de sesiones   
+🔐 **Seguridad:** Manejo de sesiones   
 📊 **Otros:** C (avanzado) | Java (básico) | Análisis de datos  
 
 ---
