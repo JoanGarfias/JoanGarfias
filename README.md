@@ -1,40 +1,44 @@
 <h1 align="center">Hola, soy Joan Garfias 👋</h1>
-<h3 align="center">🚀 Desarrollador de software</h3>
+<h3 align="center">🚀 Desarrollador de Software | Backend y APIs</h3>
 
 ---
 
-### 🌐 Sobre mí  
-🎓 Estudiante de Ingeniería en Computación en la **Universidad del Istmo**.  
+## 🚀 Sobre mí  
+🎓 Estudiante de **Ingeniería en Computación** en la Universidad del Istmo.  
 💻 Apasionado por el **desarrollo web, APIs y software escalable**.  
-📊 Explorando el **análisis de datos** y la **optimización de sistemas**.  
-🔹 Enfocado en aprender y aplicar buenas prácticas en cada proyecto.  
+📊 Explorando **análisis de datos** y **optimización de sistemas**.  
 
 ---
 
-### ⚡ Tecnologías y herramientas  
-💡 **Backend:** Laravel | Flask  
-🎨 **Frontend:** JavaScript | CSS  
-🗄 **Bases de datos:** MySQL | PostgreSQL | Firebase  
-🚀 **Despliegue:** Hosting  
-🔐 **Seguridad:** Manejo de sesiones   
-📊 **Otros:** C (avanzado) | Java (básico) | Análisis de datos  
+## 🛠️ Tecnologías y herramientas  
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flex%20%26%20Bison-%23E34F26.svg?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinAPI32-%2300599C.svg?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
 ---
 
-### 📌 Proyectos destacados  
-✅ **[Hecho en Casa](https://github.com/DXI-CODE/hecho-en-casa)** (Producción) - Sistema web de repostería para automatizar pedidos.  
+## 📌 Proyectos destacados  
+🔹 **[Hecho en Casa](https://github.com/DXI-CODE/hecho-en-casa)** (Producción) - Sistema web de repostería para automatizar pedidos.  
 
-✅ **[Shorteca](https://github.com/JoanGarfias/Shorteca)** (Producción) - Acortador de enlaces gratuito. 
+🔹 **[Shorteca](https://github.com/JoanGarfias/Shorteca)** (Producción) - Acortador de enlaces gratuito.  
 
-✅ **[ParserMetodos](https://github.com/JoanGarfias/ParserMetodos)** - Un analizador léxico y sintáctico para métodos numéricos como Newton-Raphson, implementado con Flex y Bison en C. 
+🔹 **[ParserMetodos](https://github.com/JoanGarfias/ParserMetodos)** - Analizador léxico y sintáctico de métodos numéricos con Flex y Bison.  
 
-✅ **[Triangulo2D](https://github.com/JoanGarfias/Triangulo2D)** - Una aplicación que permite analizar las medidas y rotaciones de un triángulo dibujado en 2D utilizando Java Swing como GUI.
+🔹 **[Snake_en_C](https://github.com/JoanGarfias/Snake_en_C)** - Clásico Snake en C con WinAPI32, estadísticas y personalización.  
 
-✅ **[Snake_en_C](https://github.com/JoanGarfias/Snake_en_C)** - Un clásico juego de Snake desarrollado en C utilizando la API de Windows (WinAPI32) empleando estadísticas, personalización, enemigos y progreso de nivel.
+🔹 **[Triangulo2D](https://github.com/JoanGarfias/Triangulo2D)** - Herramienta en Java Swing para analizar y rotar triángulos en 2D.  
 
 ---
 
-### 📈 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoanGarfias&show_icons=true&theme=radical&count_private=true" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanGarfias&layout=compact&theme=radical" height="150px"/>
@@ -42,16 +46,15 @@
 
 ---
 
-### 📫 Contacto  
+## 📫 Contacto  
 📧 **Email:** [joanpagarf09@gmail.com](mailto:joanpagarf09@gmail.com)  
 🌐 **LinkedIn:** [linkedin.com/in/joangarfias](https://linkedin.com/in/joangarfias)  
-💼 **Portafolio:** (en desarrollo)  
 
 ---
 
-### 🚀 Frase que me inspira  
-*""El éxito no es cuestión de suerte, sino de preparación y oportunidad.""* 
+## 🚀 Mentalidad Ganadora  
+*"El éxito no es cuestión de suerte, sino de preparación y oportunidad."*  
 
 ---
 
-⭐ **Si te gusta mi trabajo, no dudes en conectar conmigo o dejar una estrella en mis proyectos.** 😊  
+⭐ **Si te gusta mi trabajo, conéctate conmigo o deja una estrella en mis proyectos.** 😊  
