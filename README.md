@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Joan Garfias 👋</h1>
-<h3 align="center">🚀 Desarrollador de Softwar | Backend y APIs</h3>
+<h3 align="center">🚀 Desarrollador de Software | Backend y APIs</h3>
 
 ---
 
@@ -41,8 +41,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoanGarfias&show_icons=true&theme=radical&count_private=true" height="140px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanGarfias&layout=compact&theme=radical" height="140px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JoanGarfias&show_icons=true&theme=radical&count_private=true&timestamp=`date +%s`" height="140px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanGarfias&layout=compact&theme=radical&timestamp=`date +%s`" height="140px"/>
 </p>
 
 ---
