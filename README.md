@@ -41,6 +41,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoanGarfias&show_icons=true&theme=radical&count_private=true" height="140px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanGarfias&layout=compact&theme=radical" height="140px"/>
 </p>
 
 ---
