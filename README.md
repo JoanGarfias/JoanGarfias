@@ -27,15 +27,15 @@
 ---
 
 ## 📌 Proyectos destacados  
-🔹 **[Hecho en Casa](https://github.com/DXI-CODE/hecho-en-casa)** (Producción) - Sistema web de repostería para automatizar pedidos.  
+🔹 **[Hecho en Casa](https://github.com/DXI-CODE/hecho-en-casa)** (Página web en producción) - Sistema web de repostería para automatizar pedidos.  
 
-🔹 **[Shorteca](https://github.com/JoanGarfias/Shorteca)** (Producción) - Acortador de enlaces gratuito.  
+🔹 **[Shorteca](https://github.com/JoanGarfias/Shorteca)** (Página web en Producción) - Acortador de enlaces gratuito.  
 
-🔹 **[ParserMetodos](https://github.com/JoanGarfias/ParserMetodos)** - Analizador léxico y sintáctico de métodos numéricos con Flex y Bison.  
+🔹 **[ParserMetodos](https://github.com/JoanGarfias/ParserMetodos)** (Software de Escritorio) - Analizador léxico y sintáctico de métodos numéricos con Flex y Bison.  
 
-🔹 **[Snake_en_C](https://github.com/JoanGarfias/Snake_en_C)** - Clásico Snake en C con WinAPI32, estadísticas y personalización.  
+🔹 **[Snake_en_C](https://github.com/JoanGarfias/Snake_en_C)** (Videojuego) - Clásico Snake en C con WinAPI32, estadísticas y personalización.  
 
-🔹 **[Triangulo2D](https://github.com/JoanGarfias/Triangulo2D)** - Herramienta en Java Swing para analizar y rotar triángulos en 2D.  
+🔹 **[Triangulo2D](https://github.com/JoanGarfias/Triangulo2D)** (Software de escritorio) - Herramienta en Java Swing para analizar y rotar triángulos en 2D.  
 
 ---
 
