@@ -48,8 +48,8 @@
 ---
 
 ## 📫 Contacto  
-📧 **Email:** [joanpagarf09@gmail.com](mailto:joanpagarf09@gmail.com)  
-🌐 **LinkedIn:** [linkedin.com/in/joangarfias](https://linkedin.com/in/joangarfias)  
+📧 **Email:** [joanpagarf09](mailto:joanpagarf09@gmail.com)  
+🌐 **LinkedIn:** [in/joangarfias](https://linkedin.com/in/joangarfias)  
 
 ---
 
