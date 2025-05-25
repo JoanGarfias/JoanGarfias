@@ -38,8 +38,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoanGarfias&show_icons=true&theme=radical&count_private=true&cachebuster=123467" height="140px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanGarfias&layout=compact&theme=radical&cachebuster=1234567" height="140px"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoanGarfias&theme=2077" height="140px"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoanGarfias&theme=2077&exclude=html,css" height="140px"/>
 </p>
 
 ---
