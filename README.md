@@ -52,6 +52,10 @@
 
 🔹 **[Shorteca](https://github.com/JoanGarfias/Shorteca)** - Acortador de enlaces gratuito.  
 
+🔹 **[Maiky Cookies](https://github.com/JoanGarfias/maiky-cookies)** - Landing Page para Maiky Cookies, un negocio local de venta de postres.  
+
+🔹 **[Lidxi](https://github.com/JoanGarfias/lidxi)** - Guante inteligente para predicción de señas (Lenguaje de señas mexicano) utilizando el algoritmo KNN implementado en C.
+
 🔹 **[ParserMetodos](https://github.com/JoanGarfias/ParserMetodos)** (Software de Escritorio) - Analizador léxico y sintáctico de métodos numéricos con Flex y Bison.  
 
 🔹 **[Snake_en_C](https://github.com/JoanGarfias/Snake_en_C)** (Videojuego) - Clásico Snake en C con WinAPI32, estadísticas y personalización.  
