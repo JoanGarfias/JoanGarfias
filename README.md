@@ -65,7 +65,7 @@
 ## 📊 GitHub Stats
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoanGarfias&theme=2077" height="140px"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoanGarfias&theme=2077&exclude=html,css,assembly&t=20250715" height="150px"/>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanGarfias&layout=compact)
 </p>
 
 ---
