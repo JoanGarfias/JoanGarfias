@@ -52,7 +52,7 @@
 
 🔹 **[Shorteca](https://github.com/JoanGarfias/Shorteca)** - Acortador de enlaces gratuito.  
 
-🔹 **[Maiky Cookies](https://github.com/JoanGarfias/maiky-cookies)** - Landing Page para Maiky Cookies, un negocio local de venta de postres.  
+🔹 **[Maiky Cookies](https://maiky-cookies.pages.dev/)** - Landing Page para Maiky Cookies, un negocio local de venta de postres.  
 
 🔹 **[Lidxi](https://github.com/JoanGarfias/lidxi)** - Guante inteligente para predicción de señas (Lenguaje de señas mexicano) utilizando el algoritmo KNN implementado en C.
 
