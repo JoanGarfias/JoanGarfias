@@ -42,7 +42,7 @@
 ---
 
 ## 📌 Proyectos destacados  
-🔹 **Tiven** - Sistema de gestión para diferentes negocios: empleados, citas, ingresos y recordatorios automatizados por WhatsApp.  
+🔹 **Tiven** - Sistema de gestión para industria de la belleza  | Inventario | Citas | Empleados | SaaS  
 🔹 **Hecho en Casa** - Plataforma web de repostería que automatiza pedidos y gestiona clientes.  
 🔹 **[Maiky Cookies](https://maiky-cookies.pages.dev/)** - Landing Page para negocio local de postres.  
 🔹 **[Shorteca](https://github.com/JoanGarfias/Shorteca)** - Acortador de enlaces gratuito.  
