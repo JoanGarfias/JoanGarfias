@@ -45,6 +45,7 @@
 🔹 **Tiven** - Sistema de gestión para industria de la belleza  | Inventario | Citas | Empleados | SaaS  
 🔹 **Hecho en Casa** - Plataforma web de repostería que automatiza pedidos y gestiona clientes.  
 🔹 **[Maiky Cookies](https://maiky-cookies.pages.dev/)** - Landing Page para negocio local de postres.  
+🔹 **[Unicripter](https://github.com/JoanGarfias/encriptador)** - Encriptador de archivos simple | Encriptado | Desencriptado | Historial de Archivos | TW-Auth.  
 🔹 **[Shorteca](https://github.com/JoanGarfias/Shorteca)** - Acortador de enlaces gratuito.  
 🔹 **[Lidxi](https://github.com/JoanGarfias/lidxi)** - Guante inteligente para predicción de señas en LSM utilizando KNN en C.  
 🔹 **[ParserMetodos](https://github.com/JoanGarfias/ParserMetodos)** - Analizador léxico y sintáctico de métodos numéricos con Flex y Bison.  
