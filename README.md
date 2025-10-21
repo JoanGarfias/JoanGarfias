@@ -53,10 +53,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoanGarfias&theme=2077" height="140px"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoanGarfias&theme=2077&exclude=html,css,assembly,roff" height="140px"/>
-</p>
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoanGarfias&theme=2077" height="140px" style="vertical-align: middle;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanGarfias&hide=blade,html,css&langs_count=8&layout=compact&theme=radical" height="140px" style="vertical-align: middle;"/>
+</div>
 
 ---
 
