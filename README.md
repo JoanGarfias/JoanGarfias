@@ -1,12 +1,11 @@
 <h1 align="center">Hola, soy Joan Garfias 👋</h1>
-<h3 align="center">🚀 Desarrollador Fullstack</h3>
+<h3 align="center">🚀 Desarrollador de Software</h3>
 
 ---
 
 ## 🚀 Sobre mí  
-🎓 Estudiante de **Ingeniería en Computación** en la Universidad del Istmo.  
-💻 Apasionado por el **desarrollo web, APIs y software escalable**.     
-🌱 Actualmente explorando **Docker, NGINX, PostgreSQL** y optimización de despliegues en producción.  
+- Estudiante de **Ingeniería en Computación** en la Universidad del Istmo.  
+- Apasionado por el **desarrollo web, APIs y software escalable**.     
 
 ---
 
@@ -14,11 +13,10 @@
 
 ### 🖼️ Front-end
 <p align="center">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /> 
-  <img src="https://img.shields.io/badge/Nuxt-%2335495e.svg?style=for-the-badge&logo=nuxt&logoColor=%234FC08D" />
+  <!-- <img src="https://img.shields.io/badge/Nuxt-%2335495e.svg?style=for-the-badge&logo=nuxt&logoColor=%234FC08D" /> -->
   <img src="https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" /> 
 </p>
 
@@ -65,7 +63,6 @@
 ---
 
 ## 📫 Contacto  
-📧 **Email:** [joanpagarf09@gmail.com](mailto:joanpagarf09@gmail.com)  
 🌐 **LinkedIn:** [linkedin.com/in/joangarfias](https://linkedin.com/in/joangarfias)  
 
 ---
