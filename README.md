@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Joan Garfias 👋</h1>
-<h3 align="center">🚀 Desarrollador de Software</h3>
+<!-- <h3 align="center">🚀 Desarrollador de Software</h3> -->
 
 ---
 
