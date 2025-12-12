@@ -44,13 +44,23 @@
 ---
 
 ## 📌 Proyectos destacados  
-🔹 **Tiven** - Sistema de gestión para industria de la belleza  | Inventario | Citas | Empleados | SaaS  
-🔹 **Hecho en Casa** - Plataforma web de repostería que automatiza pedidos y gestiona clientes.  
-🔹 **[Maiky Cookies](https://maiky-cookies.pages.dev/)** - Landing Page para negocio local de postres.  
-🔹 **[Unicripter](https://github.com/JoanGarfias/encriptador)** - Encriptador de archivos simple | Encriptado | Desencriptado | Historial de Archivos | TW-Auth.  
+🔹 **Tiven** - Sistema de gestión para salones de belleza: citas, clientes, servicios y más | Astro · VueJS · Laravel · MySQL · Docker
+
+🔹 **Hecho en Casa** - Plataforma de pedidos y gestión de clientes para una repostería | Laravel · Blade · MySQL
+
+🔹 **[Chat-live](https://github.com/JoanGarfias/chat-live/)** - App de chat en tiempo real autohospedada (desktop) | VueJS · Tauri/Rust · Python
+
+🔹 **[Curvex](https://github.com/JoanGarfias/encriptador)** - Plataforma web de cálculos y herramientas estadísticas | VueJS · PHP Laravel · Inertia
+
+🔹 **[Maiky Cookies](https://maiky-cookies.pages.dev/)** - Sitio web para negocio de postres | VueJS
+
+🔹 **[Unicripter](https://github.com/JoanGarfias/encriptador)** - Encriptador de archivos con historial y descarga de archivos | VueJS · PHP Laravel · Inertia
+
+🔹 **[ParserMetodos](https://github.com/JoanGarfias/ParserMetodos)** - Analizador léxico y sintáctico de métodos numéricos | Flex · Bison · C
+<!--
 🔹 **[Shorteca](https://github.com/JoanGarfias/Shorteca)** - Acortador de enlaces gratuito.  
 🔹 **[Lidxi](https://github.com/JoanGarfias/lidxi)** - Guante inteligente para predicción de señas en LSM utilizando KNN en C.  
-🔹 **[ParserMetodos](https://github.com/JoanGarfias/ParserMetodos)** - Analizador léxico y sintáctico de métodos numéricos con Flex y Bison.  
+-->
 
 ---
 
