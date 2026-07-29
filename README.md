@@ -1,63 +1,107 @@
-<h1>Hola, soy Joan Garfias <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<div align="center">
 
-**Fullstack Developer enfocado en backend y sistemas**
 
-Desarrollo aplicaciones web reales con enfoque en funcionalidad, escalabilidad y valor de negocio.  
-Trabajo tanto en frontend como backend, con mayor enfoque en lógica, arquitectura y manejo de datos.
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00C9F5&center=true&vCenter=true&width=650&lines=Construyendo+sistemas;PHP+%2B+Laravel+%2B+TypeScript+%2B+Vue;Cloud+%26+arquitectura+de+software;Community+Tech+Builder" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🚀 Skills set
+<a href="https://joangarfias.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portafolio-00C9F5?style=for-the-badge&logo=googlechrome&logoColor=0D1117" />
+</a>
+<a href="https://linkedin.com/in/joangarfias" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-00C9F5?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
+</a>
+<a href="https://youtube.com/@joan_dev" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-00C9F5?style=for-the-badge&logo=youtube&logoColor=0D1117" />
+</a>
 
-### 🧠 Lenguajes
-
-<div style="display: flex; flex-align: row;">
-  <img title="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"> 
-  <img title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00C9F5&height=3&section=header"/>
 
-### ⚙️ Frameworks & Tools
-<div style="display: flex; flex-align: row;">
-  <img title="Laravel" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"> 
-  <img title="Vue.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"> 
-  <img title="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-</div>
----
+## 👋 Sobre mí
+
+Soy **Backend Developer** enfocado en el diseño y construcción de **aplicaciones web robustas**, con especial interés en **arquitectura de software** y **cloud computing**. Me gusta pensar los sistemas de principio a fin.
+
+Fuera del código, organizo y hago crecer **comunidad tecnológica**, ayudando a que más desarrolladores compartan conocimiento y crezcan juntos.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00C9F5&height=3&section=header"/>
+
+## 🧩 Tech Stack
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/PHP-00C9F5?style=flat-square&logo=php&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Laravel-00C9F5?style=flat-square&logo=laravel&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/TypeScript-00C9F5?style=flat-square&logo=typescript&logoColor=0D1117"/>
+
+</td>
+<td valign="top" width="50%">
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/Vue.js-00C9F5?style=flat-square&logo=vuedotjs&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/TypeScript-00C9F5?style=flat-square&logo=typescript&logoColor=0D1117"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 ### 🗄️ Bases de datos
 
-<div style="display: flex; flex-align: row;">
-  <img title="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> 
-  <img title="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> 
-  <img title="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
+<img src="https://img.shields.io/badge/PostgreSQL-00C9F5?style=flat-square&logo=postgresql&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/MySQL-00C9F5?style=flat-square&logo=mysql&logoColor=0D1117"/>
+
+</td>
+<td valign="top" width="50%">
+
+### ☁️ Cloud & DevOps
+
+<img src="https://img.shields.io/badge/AWS-00C9F5?style=flat-square&logo=amazonaws&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Docker-00C9F5?style=flat-square&logo=docker&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Nginx-00C9F5?style=flat-square&logo=nginx&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Linux-00C9F5?style=flat-square&logo=linux&logoColor=0D1117"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00C9F5&height=3&section=header"/>
+
+## 🎯 Enfoque actual
+
+- 🔭 Profundizando en **AWS** y arquitectura cloud
+- 🧱 Diseño de sistemas
+- 🌱 Explorando patrones de arquitectura de software
+- 🤝 Construyendo comunidad tech de forma activa
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00C9F5&height=3&section=header"/>
+
+## 📬 Contacto
+
+<div align="center">
+
+<a href="https://joangarfias.me" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portafolio-00C9F5?style=for-the-badge&logoColor=0D1117"/>
+</a>
+<a href="https://linkedin.com/in/joangarfias" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-00C9F5?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+</a>
+<a href="https://youtube.com/@joan_dev" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-00C9F5?style=for-the-badge&logo=youtube&logoColor=0D1117"/>
+</a>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9F5&height=120&section=footer"/>
 
-### ☁️ Otros
-
-<div style="display: flex; flex-align: row;">
-  <img title="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"> 
-  <img title="Nginx" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png">
+<div align="center">
+<sub>Gracias por visitar mi perfil ✨</sub>
 </div>
----
-
-## 🤝 Contáctame
-
-<a href="https://linkedin.com/in/joangarfias" target="_blank"><img title="LinkedIn" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
-<a href="https://joangarfias.me" target="_blank"><img title="Website" src="https://img.icons8.com/color/48/domain.png" width="40"></a>
-<a href="https://www.youtube.com/@joan_dev" target="_blank"><img title="YouTube" src="https://img.icons8.com/color/48/youtube-play.png" width="40"></a>
-
----
-
-## 🎧 Otros intereses
-
-- Beatbox  
-- Fútbol ⚽  
-
----
-
-### 😄 Random meme
-<img src='https://i.ibb.co/Rpsg2JtM/c463d827-2de8-4502-9e30-ffcf3a9d100b-text.gif' height="400">
